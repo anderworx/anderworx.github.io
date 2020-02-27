@@ -5,11 +5,26 @@
     "home_page_url": "https://anderworx.github.io",
     "feed_url": "https://anderworx.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://anderworx.github.io/media/website/anderworx.png",
+    "icon": "https://anderworx.github.io/media/website/awx-logo.png",
     "author": {
         "name": "Mark Anderson"
     },
     "items": [
+        {
+            "id": "https://anderworx.github.io/sample-images.html",
+            "url": "https://anderworx.github.io/sample-images.html",
+            "title": "Sample Images",
+            "summary": "[{\"id\":1582773292018,\"type\":\"publii-paragraph\",\"content\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;",
+            "content_html": "[{\"id\":1582773292018,\"type\":\"publii-paragraph\",\"content\":\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}},{\"id\":1582773323163,\"type\":\"publii-header\",\"content\":\"Images from Our Trip\",\"config\":{\"headingLevel\":3,\"textAlign\":\"center\",\"link\":{\"url\":\"\",\"noFollow\":false,\"targetBlank\":false,\"sponsored\":false,\"ugc\":false},\"advanced\":{\"cssClasses\":\"\",\"customId\":false,\"id\":\"images-from-our-trip\"}}},{\"id\":1582773174083,\"type\":\"publii-gallery\",\"content\":{\"images\":[{\"src\":\"https://anderworx.github.io/media/posts/2/gallery/St.George-Basin-West-Kimberley-Australia.jpg\",\"thumbnailSrc\":\"https://anderworx.github.io/media/posts/2/gallery/St.George-Basin-West-Kimberley-Australia-thumbnail.jpg\",\"height\":480,\"width\":720,\"dimensions\":\"2000x1333\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://anderworx.github.io/media/posts/2/gallery/A-Building-Sandstorm-Behind-the-Two-Mittens-Monument-Valley-Utah.jpg\",\"thumbnailSrc\":\"https://anderworx.github.io/media/posts/2/gallery/A-Building-Sandstorm-Behind-the-Two-Mittens-Monument-Valley-Utah-thumbnail.jpg\",\"height\":480,\"width\":720,\"dimensions\":\"2000x1333\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://anderworx.github.io/media/posts/2/gallery/A-Cauldron-of-Stars-at-the-Galaxys-Center.jpg\",\"thumbnailSrc\":\"https://anderworx.github.io/media/posts/2/gallery/A-Cauldron-of-Stars-at-the-Galaxys-Center-thumbnail.jpg\",\"height\":480,\"width\":720,\"dimensions\":\"2000x1333\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://anderworx.github.io/media/posts/2/gallery/A-Westbound-BNSF-Train-Needles-CA.jpg\",\"thumbnailSrc\":\"https://anderworx.github.io/media/posts/2/gallery/A-Westbound-BNSF-Train-Needles-CA-thumbnail.jpg\",\"height\":480,\"width\":720,\"dimensions\":\"1999x1333\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://anderworx.github.io/media/posts/2/gallery/African-Elephant-Calf-With-Herd-Etosha-National-Park-Namibia.jpg\",\"thumbnailSrc\":\"https://anderworx.github.io/media/posts/2/gallery/African-Elephant-Calf-With-Herd-Etosha-National-Park-Namibia-thumbnail.jpg\",\"height\":480,\"width\":720,\"dimensions\":\"2000x1333\",\"alt\":\"\",\"caption\":\"\"},{\"src\":\"https://anderworx.github.io/media/posts/2/gallery/After-a-Storm-Seaside-California.jpg\",\"thumbnailSrc\":\"https://anderworx.github.io/media/posts/2/gallery/After-a-Storm-Seaside-California-thumbnail.jpg\",\"height\":480,\"width\":720,\"dimensions\":\"2000x1333\",\"alt\":\"\",\"caption\":\"\"}]},\"config\":{\"imageAlign\":\"center\",\"columns\":3,\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}}]",
+            "author": {
+                "name": "Mark Anderson"
+            },
+            "tags": [
+                   "Travel"
+            ],
+            "date_published": "2020-02-26T21:13:46-06:00",
+            "date_modified": "2020-02-26T21:19:17-06:00"
+        },
         {
             "id": "https://anderworx.github.io/hello-world.html",
             "url": "https://anderworx.github.io/hello-world.html",
@@ -20,9 +35,10 @@
                 "name": "Mark Anderson"
             },
             "tags": [
+                   "Commentary"
             ],
             "date_published": "2020-02-26T20:26:07-06:00",
-            "date_modified": "2020-02-26T20:26:07-06:00"
+            "date_modified": "2020-02-26T21:19:33-06:00"
         }
     ]
 }
